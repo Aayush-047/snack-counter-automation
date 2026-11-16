@@ -1,6 +1,6 @@
 # Snack Counter Automation
 
-My Framsikt take-home for the Product Engineer role. It is the core logic for running the snack counters in Oslo and Bengaluru: the refill lifecycle, choosing who buys, the soft budget check and the monthly report. The company chat tool, the HR system and desk bookings are replaced by simulated stand-ins.
+Core logic for automating office snack counters in Oslo and Bengaluru: the refill lifecycle, choosing who buys, the soft budget check and the monthly report. The company chat tool, the HR system and desk bookings are replaced by simulated stand-ins.
 
 **Design document:** [docs/DESIGN.md](docs/DESIGN.md) (also attached as a PDF)
 
